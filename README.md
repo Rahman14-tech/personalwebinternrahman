@@ -49,7 +49,7 @@ In the App.js it contains all of route that the user can explore. It imports the
 
 This javascript file is used to render the component into the html file.
 
-[Back to Index](#cs50w-final-project---yourtalent)
+[Back to Index](#portfolio-web-internship---muhammad-akbar-rahman)
 
 ## How to run the application
 
@@ -58,7 +58,7 @@ This javascript file is used to render the component into the html file.
 3. run the npm install command in the terminal
 4. run the npm start command in the terminal
 
-[Back to Index](#cs50w-final-project---yourtalent)
+[Back to Index](#portfolio-web-internship---muhammad-akbar-rahman)
 
 ## Deployed Link
 
